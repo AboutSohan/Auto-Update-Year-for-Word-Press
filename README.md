@@ -10,6 +10,8 @@ License: GPL2
 
 ***********
 
+DOWNLOAD HERE: https://github.com/AboutSohan/Auto-Update-Year-for-Word-Press/raw/refs/heads/main/auto-update-year.zip 
+
 Keep your year-based blog post title updated and evergreen automatically.
 
 KEY FEATURES 🔥
